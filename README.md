@@ -1,5 +1,5 @@
 # Java Calculator
-This Java program, Calculator, is designed to perform various mathematical operations. It includes functionalities for basic arithmetic operations, array operations and mathematical measures such as mean, mode, median, variance, and standard deviation.
+This Java program, Calculator, is designed to perform various mathematical operations. It includes functionalities for basic arithmetic operations, array operations and mathematical measures such as mean, mode, median, variance and standard deviation.
 # Operations Available:
 -Addition: Add two numbers.
 
